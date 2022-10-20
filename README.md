@@ -2,11 +2,11 @@
 
 # virtualenv 'tp1.0'
 
-# tp1.0\Scripts\activate
+## tp1.0\Scripts\activate
 
-# pip install django
+## pip install django
 
-# cd tp1.0
+## cd tp1.0
 
 # django-admin startproject project
 
