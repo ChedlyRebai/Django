@@ -10,8 +10,8 @@
 
 # django-admin startproject project
 
-# startproject project
+##### startproject project
 
-# cd project
+ ####cd project
 
 ##### python manage.py runserver
