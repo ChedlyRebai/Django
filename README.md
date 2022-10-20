@@ -12,6 +12,6 @@
 
 ##### startproject project
 
- ####cd project
+##### cd project
 
 ##### python manage.py runserver
