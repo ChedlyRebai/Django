@@ -8,6 +8,8 @@
 
 ## cd tp1.0
 
+# pour cree un project
+
 # django-admin startproject project
 
 # startproject project
