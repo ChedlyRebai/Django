@@ -1,16 +1,27 @@
+###### python
 
-#######virtualenv 'name'
+###### virtualenv project
 
-name\Scripts\activate
+## project\Scripts\activate
 
-pip install django
+## pip install django
 
-cd name
+## cd project
 
-django-admin startproject nom_projet
+# pour cree un project
 
-cd project
+##pour cree un projet
+##### django-admin startproject project1
+     
+     cd project1
 
-py manage.py runserver
+###python manage.py runserver
 
-py manage.py startapp nom_app
+
+python manage.py startapp pages 
+
+##### startproject project
+
+##### cd project
+
+##### python manage.py runserver
